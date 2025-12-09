@@ -1,1 +1,28 @@
-Project report, explanation, and findings
+Phishing Awareness Simulation – Full Project Report
+
+Objective
+The goal is to demonstrate a practical phishing awareness simulation that trains users and evaluates their susceptibility to phishing attacks.
+
+Tools used
+GoPhish
+Brevo SMTP
+CSV Reporting
+Custom email & landing page
+
+Project Workflow
+Created a Sending Profile using Brevo SMTP
+Designed a phishing email (security alert)
+Built a landing page resembling a login page
+Added target users (CSV)
+Launched the campaign
+Collected and exported results
+Created GitHub documentation
+
+Findings and Analysis
+Open rate 0
+Click rate 0
+Credential submission rate 0
+User behavior patterns 3
+
+Conclusion
+This project demonstrates practical cybersecurity experience in social engineering analysis and phishing mitigation.
