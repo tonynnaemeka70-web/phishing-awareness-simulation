@@ -1,2 +1,14 @@
-# phishing-awareness-simulation
-A beginner-friendly phishing awareness simulation project using GoPhish. Includes email templates, landing pages, SMTP setup, campaign execution, and results analysis.
+Phishing Awareness Simulation Project
+
+This project demonstrates a real-world phishing awareness simulation using GoPhish.
+It includes creating phishing email templates, landing pages, setting up SMTP, launching a campaign, and analyzing results.
+
+ Tools Used
+
+GoPhish (Phishing Simulation Framework)
+
+Brevo SMTP (Email delivery)
+
+CSV Reporting
+
+GitHub for version control
