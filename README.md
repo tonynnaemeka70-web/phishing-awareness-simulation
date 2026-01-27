@@ -11,4 +11,3 @@ Brevo SMTP (Email delivery)
 
 CSV Reporting
 
-GitHub for version control
